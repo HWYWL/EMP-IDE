@@ -1,6 +1,15 @@
 <template>
   <div style="padding:12px;background:#252526;height:100%">
     <mu-card style="width: 100%;min-width:300px;margin: 6px auto;">
+      <mu-card-header title="EMP-Plus"
+        sub-title="一个方便的 micropython 模块."></mu-card-header>
+      <mu-card-actions>
+        <mu-button flat
+          @click="pipInstall('yi-mp')">{{$t('Pypi.Download')}}</mu-button>
+      </mu-card-actions>
+    </mu-card>
+
+    <mu-card style="width: 100%;min-width:300px;margin: 6px auto;">
       <mu-card-header title="EMP"
         sub-title="make things easy on micropython."></mu-card-header>
       <mu-card-actions>
