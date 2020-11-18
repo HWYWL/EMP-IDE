@@ -8100,7 +8100,7 @@ vue-loader@^15.4.2:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-monaco-cdn@^1.0.1:
+vue-monaco-cdn@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/vue-monaco-cdn/-/vue-monaco-cdn-1.0.2.tgz#653f78c449a5a67b5ac4ac1f3d88f075d5bbb547"
   integrity sha512-Rb7VMJd38BO3Bt6yNR1uAXka/j+L4BIefgtxwINGXmC2b0g+vEGdKEMICpV+Ph6Kq5jqTm3DPy0JjEjI75zu6w==
