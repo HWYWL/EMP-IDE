@@ -13,7 +13,7 @@
     "commitizen": "^3.0.5",
     "lodash": "^4.17.20",
     "material-design-icons": "^3.0.1",
-    "monaco-editor": "^0.14.3",
+    "monaco-editor": "^0.25.1",
     "muse-ui-message": "^0.2.1",
     "muse-ui-toast": "^0.3.0",
     "normalize.css": "^8.0.0",
