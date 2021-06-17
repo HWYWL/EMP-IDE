@@ -5360,10 +5360,10 @@ monaco-editor-webpack-plugin@^1.5.4:
   dependencies:
     "@types/webpack" "^4.4.19"
 
-monaco-editor@^0.14.3:
-  version "0.14.3"
-  resolved "http://registry.npm.taobao.org/monaco-editor/download/monaco-editor-0.14.3.tgz#7cc4a4096a3821f52fea9b10489b527ef3034e22"
-  integrity sha1-fMSkCWo4IfUv6psQSJtSfvMDTiI=
+monaco-editor@^0.25.2:
+  version "0.25.2"
+  resolved "https://registry.yarnpkg.com/monaco-editor/-/monaco-editor-0.25.2.tgz#119e2b15bbd968a1a99c03cac9c329316d7c37e9"
+  integrity sha512-5iylzSJevCnzJn9UVsW8yOZ3yHjmAs4TfvH3zsbftKiFKmHG0xirGN6DK9Kk04VSWxYCZZAIafYJoNJJMAU1KA==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
